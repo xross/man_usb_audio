@@ -9,4 +9,4 @@ manifest:
 
   projects: 
     - name: sw_usb_audio
-    - repo-path: sw_usb_audio
+      repo-path: sw_usb_audio
