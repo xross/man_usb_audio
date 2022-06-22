@@ -16,3 +16,47 @@ manifest:
       repo-path: lib_xua
       revision: develop
 
+    - name: lib_dsp
+      repo-path: lib_dsp
+      revision: develop
+
+    - name: lib_gpio
+      repo-path: lib_gpio
+      revision: develop
+
+    - name: lib_i2c
+      repo-path: lib_i2c
+      revision: develop
+
+    - name: lib_i2s
+      repo-path: lib_i2s
+      revision: develop
+
+    - name: lib_locks
+      repo-path: lib_locks
+      revision: develop
+    
+    - name: lib_logging
+      repo-path: lib_logging
+      revision: develop
+    
+    - name: lib_mic_array
+      repo-path: lib_mic_array
+      revision: v4.5.0
+    
+    - name: lib_spdif
+      repo-path: lib_spdif
+      revision: develop
+  
+    - name: lib_xassert
+      repo-path: lib_xassert
+      revision: develop
+
+    - name: lib_xud
+      repo-path: lib_xud
+      revision: develop
+
+    - name: lib_adat
+      repo-path: lib_adat
+      revision: develop
+
