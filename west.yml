@@ -4,7 +4,7 @@ manifest:
       remote: xmos
 
   remotes:
-      name: xmos
+    - name: xmos
       url-base: git@github.com:xmos 
 
   projects: 
