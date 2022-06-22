@@ -6,15 +6,19 @@ manifest:
   remotes:
     - name: xmos
       url-base: git@github.com:xmos 
+    - name: xross
+      url-base: git@github.com:xross 
 
   projects: 
     - name: sw_usb_audio
+      remote: xross
       repo-path: sw_usb_audio
-      revision: develop
+      revision: feature/sync
     
     - name: lib_xua
+      remote: xross
       repo-path: lib_xua
-      revision: develop
+      revision: feature/sync
 
     - name: lib_dsp
       repo-path: lib_dsp
